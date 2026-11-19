@@ -1,6 +1,0 @@
-SMS FEEDBACK CHECK
-Words: 7
-Palindrome results: 1 0
-Upper case: HELLO C
-Reversed: MP 5 ta yrarbil eht ta teeM
-Tab-separated words: 3

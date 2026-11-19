@@ -1,6 +1,0 @@
-HOSTEL RESIDENT DIRECTORY
-Sorted names: Arun Arun Bala Charan Divya Hari Kavya Meena 
-String comparisons during sort: 28
-Arun found at index 1
-Duplicate names:
-Arun

@@ -1,8 +1,0 @@
-EXAM SEATING REGISTER - SORTING
-Original: 42 18 35 12 29 8 50 24 
-Bubble sort: comparisons = 27, swaps = 16
-Result: 8 12 18 24 29 35 42 50 
-Selection sort: comparisons = 28, swaps = 6
-Result: 8 12 18 24 29 35 42 50 
-Insertion sort: comparisons = 20, shifts = 16
-Result: 8 12 18 24 29 35 42 50 
