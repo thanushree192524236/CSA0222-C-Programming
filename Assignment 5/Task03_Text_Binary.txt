@@ -1,0 +1,7 @@
+$ gcc -Wall -Wextra -std=c11 Task03_Text_Binary/text_binary_compare.c -o task3
+$ ./task3
+Text records read: 1000
+Binary records read: 1000
+Records written: 1000
+Write time: 0.000468 seconds
+Both files contain the expected number of records.
