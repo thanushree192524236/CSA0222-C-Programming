@@ -1,1 +1,0 @@
-Before submitting: run each program on your own computer, capture your own terminal screenshots if required by faculty, and add your GitHub repository link to the report and README. Commit each task separately as instructed in the assignment PDF.
