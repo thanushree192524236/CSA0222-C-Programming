@@ -1,0 +1,9 @@
+LIBRARY BOOK SEARCH
+Linear search: 1021 -> index 1, comparisons = 2
+Binary search: 1021 -> index 0, comparisons = 3
+Linear search: 1305 -> index 8, comparisons = 9
+Binary search: 1305 -> index 5, comparisons = 3
+Linear search: 1533 -> index 4, comparisons = 5
+Binary search: 1533 -> index 9, comparisons = 4
+Linear search: 1400 -> index -1, comparisons = 10
+Binary search: 1400 -> index -1, comparisons = 4

@@ -1,0 +1,1 @@
+Prepared as a beginner-friendly code starter pack. Check each task against your assignment sheet, understand the logic, and personalise the sample inputs and testing before submission.

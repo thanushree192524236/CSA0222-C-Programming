@@ -1,0 +1,10 @@
+STUDENT COUNCIL ELECTION RESULT
+Valid votes: 12
+Invalid votes: 3
+Votes per candidate (highest first):
+Candidate 1: 3
+Candidate 2: 3
+Candidate 3: 2
+Candidate 4: 2
+Candidate 5: 2
+Result: Tie at 3 votes

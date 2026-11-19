@@ -1,0 +1,11 @@
+DISTRICT RAINFALL SUMMARY
+State monthly average: 120.88 mm
+Wettest record: District 8, Month 11 = 199 mm
+Annual totals for first 5 districts:
+District 1: 1206 mm
+District 2: 1290 mm
+District 3: 1374 mm
+District 4: 1458 mm
+District 5: 1542 mm
+Districts below 60% of state average (annual total check):
+
